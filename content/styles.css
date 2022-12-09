@@ -11,8 +11,8 @@ h1, h2, h3, p {
 
 h3, p {
     text-align: justify;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 30vw;
+    margin-right: 30vw;
 }
 
 a, a:hover {
